@@ -2,28 +2,27 @@
   <img src="banner.png">
 </p>
 
-## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+## Template Journal 
+
+Template from : [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
 
 
-## 👩‍💻 Diana's Cloud Journey
+## 👩‍💻 Diana's DevOps Journey
 
-Hayy !!! Perkenalkan nama saya Diana Zuniarti. Biasa di panggil Diana. Saya tertarik mengikuti challenge, karna saya ingin mengembangkan skill saya di bidang cloud computing. Tentunya untuk menunjang karir saya di Cloud Computing. Target saya dalam 100 hari kedepan saya bisa terus update progress belajar tentang cloud computing. Saya akan fokus ke AWS. Dengan harapan selesai challenge ini saya bisa lulus sertifikasi CPP dan SAA. Dan semoga.. siapapun yang membaca journey saya dapat menginspirasi banyak orang. 
+Hayy !!! Nama saya Diana. Saya baru saja mengenal Devops. Fyi, ini hanya journal belajar saya tentang DevOps. Untuk itu, maaf jika masih ada banyak kesalahan. Thank you all..!! 
 
 
-- [📱 My Twitter](https://twitter.com/dianazunii/)
+
 - [📱 My LinkedIn](https://www.linkedin.com/in/diana-zuniarti-92227017b/)
 #
 #
-## Stepping out the door
+## Pengenalan DevOps
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
+#
+#
+## Version Control System - GIT
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
@@ -33,7 +32,7 @@ Hayy !!! Perkenalkan nama saya Diana Zuniarti. Biasa di panggil Diana. Saya tert
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
-## Walking down the road
+## ---
 
 - [ ] ☁️ 11 > [](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [](Journey/012/Readme.md)
@@ -46,7 +45,7 @@ Hayy !!! Perkenalkan nama saya Diana Zuniarti. Biasa di panggil Diana. Saya tert
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
-## Crossing the bridge
+## ---
 
 - [ ] ☁️ 21 > [](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [](Journey/022/Readme.md)
@@ -59,7 +58,7 @@ Hayy !!! Perkenalkan nama saya Diana Zuniarti. Biasa di panggil Diana. Saya tert
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
-## Into the bushy, thorny forest
+## ---
 
 - [ ] ☁️ 31 > [](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [](Journey/032/Readme.md)
@@ -72,7 +71,7 @@ Hayy !!! Perkenalkan nama saya Diana Zuniarti. Biasa di panggil Diana. Saya tert
 - [ ] ☁️ 39 > [](Journey/039/Readme.md)
 - [ ] ☁️ 40 > [](Journey/040/Readme.md)
 
-## Trekking the dunes
+## ---
 
 - [ ] ☁️ 41 > [](Journey/041/Readme.md)
 - [ ] ☁️ 42 > [](Journey/042/Readme.md)
@@ -85,7 +84,7 @@ Hayy !!! Perkenalkan nama saya Diana Zuniarti. Biasa di panggil Diana. Saya tert
 - [ ] ☁️ 49 > [](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
-## Winding through the canyons
+## ---
 
 - [ ] ☁️ 51 > [](Journey/051/Readme.md)
 - [ ] ☁️ 52 > [](Journey/052/Readme.md)
@@ -98,7 +97,7 @@ Hayy !!! Perkenalkan nama saya Diana Zuniarti. Biasa di panggil Diana. Saya tert
 - [ ] ☁️ 59 > [](Journey/059/Readme.md)
 - [ ] ☁️ 60 > [](Journey/060/Readme.md)
 
-## Stumbling through the caves
+## ---
 
 - [ ] ☁️ 61 > [](Journey/061/Readme.md)
 - [ ] ☁️ 62 > [](Journey/062/Readme.md)
@@ -111,7 +110,7 @@ Hayy !!! Perkenalkan nama saya Diana Zuniarti. Biasa di panggil Diana. Saya tert
 - [ ] ☁️ 69 > [](Journey/069/Readme.md)
 - [ ] ☁️ 70 > [](Journey/070/Readme.md)
 
-## Resting at the Lagoon
+## ---
 
 - [ ] ☁️ 71 > [](Journey/071/Readme.md)
 - [ ] ☁️ 72 > [](Journey/072/Readme.md)
@@ -124,7 +123,7 @@ Hayy !!! Perkenalkan nama saya Diana Zuniarti. Biasa di panggil Diana. Saya tert
 - [ ] ☁️ 79 > [](Journey/079/Readme.md)
 - [ ] ☁️ 80 > [](Journey/080/Readme.md)
 
-## Up into the mountains
+## ---
 
 - [ ] ☁️ 81 > [](Journey/081/Readme.md)
 - [ ] ☁️ 82 > [](Journey/082/Readme.md)
@@ -137,7 +136,7 @@ Hayy !!! Perkenalkan nama saya Diana Zuniarti. Biasa di panggil Diana. Saya tert
 - [ ] ☁️ 89 > [](Journey/089/Readme.md)
 - [ ] ☁️ 90 > [](Journey/090/Readme.md)
 
-## Into the sky to touch the cloud!
+## ---
 
 - [ ] ☁️ 91 > [](Journey/091/Readme.md)
 - [ ] ☁️ 92 > [](Journey/092/Readme.md)
